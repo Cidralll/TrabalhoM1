@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://emestre.unc.br/
+HostUrl=https://unc-emestre-file.s3.amazonaws.com/docmaterial_didatico/1/29502/seudoguinho-laravel.zip?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2LTHYMIRNK6PV7EN%2F20220901%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220901T234540Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=bc1264c60e047a7b54434054bfedd7b41425548583b68cfe4942b9ab11ec70de
